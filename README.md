@@ -1,6 +1,6 @@
-## Rubens Zimbres 👋
+# Rubens Zimbres 👋
 
-# _Senior Machine Learning Engineer, Ph.D._
+## _Senior Machine Learning Engineer, Ph.D._
 
 - 🔭 I’m currently working on OWASP Top 10 for LLMs and Langchain with Google Cloud
 
