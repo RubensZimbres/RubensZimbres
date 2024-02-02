@@ -21,3 +21,5 @@
   
 - 📧 Email: talkto@rubenszimbres.phd
 - 🌐 Website: https://www.rubenszimbres.phd
+
+<img src=https://github.com/RubensZimbres/RubensZimbres/blob/main/SecurityPlus%20Logo%20Certified%20CE%20Black.png alt="SecurityPlus Logo" style="width: 170px; height: auto;">
