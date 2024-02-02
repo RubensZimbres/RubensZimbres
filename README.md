@@ -2,11 +2,11 @@
 
 ## _Senior Machine Learning Engineer, Ph.D._
 
-- 🔭 I’m currently working on OWASP Top 10 for LLMs and Langchain with Google Cloud
+ 🔭 I’m currently working on OWASP Top 10 for LLMs and Langchain with Google Cloud
 
-- 🚀 I’m learning cybersecurity in the intersection with A.I.
+ 🚀 I’m learning cybersecurity in the intersection with A.I.
 
-- 👾 About me 👾
+ 👾 About me 👾
 > I am a full-stack ML Engineer, certified Google Cloud Data Engineer and Google Developer Expert
 > (GDE) in Machine Learning and Google Cloud Platform. I'm experienced in Machine Learning and
 > Deep Learning algorithms with focus on efficiency, scalability and strategic insights. I work with
@@ -19,5 +19,5 @@
 > security, cost planning and services related to cybersecurity of cloud environments. I specialized
 > in cost-efficient use of the cloud. I am CompTIA Security+ certified.
   
-- 📧 Email: talkto@rubenszimbres.phd
-- 🌐 Website: https://www.rubenszimbres.phd
+📧 Email: talkto@rubenszimbres.phd  
+🌐 Website: https://www.rubenszimbres.phd
