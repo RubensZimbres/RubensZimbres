@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on OWASP Top 10 for LLMs and Langchain with Google Cloud
 
-- 🚀 I’m currently learning cybersecurity in the intersection with A.I.
+- 🚀 I’m learning cybersecurity in the intersection with A.I.
 
 - 👾 About me 👾
 > I am a full-stack ML Engineer, certified Google Cloud Data Engineer and Google Developer Expert
