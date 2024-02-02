@@ -1,6 +1,6 @@
-### Rubens Zimbres 👋
+## Rubens Zimbres 👋
 
-## _Senior Machine Learning Engineer, Ph.D._
+# _Senior Machine Learning Engineer, Ph.D._
 
 - 🔭 I’m currently working on OWASP Top 10 for LLMs and Langchain with Google Cloud
 
@@ -12,7 +12,7 @@
 > Deep Learning algorithms with focus on efficiency, scalability and strategic insights. I work with
 > Machine Learning, Deep Learning, Transfer Learning, Natural Language Processing, Generative
 > AI, LLMs, LangChain, RAG, pgvector, LoRA and Recommendation Systems.
-  
+>    
 > I am experienced in Python, Wolfram Mathematica, PySpark ML, MLFlow, SQL, Kubeflow and
 > NetLogo. I'm very comfortable with Linux environments. I have extensive training and experience
 > in Google Cloud solutions, including Vertex AI, MLOps and Generative AI, GCP architecture,
