@@ -2,7 +2,7 @@
 
 ## _Senior Machine Learning Engineer, Ph.D._
 
- 🔭 I’m currently working on OWASP Top 10 for LLMs and Langchain with Google Cloud
+ 🔭 I’m currently contributing on OWASP Top 10 for LLMs and also in Langchain studies with Google Cloud
 
  🚀 I’m learning cybersecurity in the intersection with A.I.
 
