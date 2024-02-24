@@ -8,10 +8,11 @@
 
  👾 About me 👾
 > I am a full-stack ML Engineer, certified Google Cloud Data Engineer and Google Developer Expert
-> (GDE) in Machine Learning and Google Cloud Platform and AWS Certified Cloud Practitioner. I'm
-> experienced in Machine Learning and Deep Learning algorithms with focus on efficiency, scalability
-> and strategic insights. I work with Machine Learning, Deep Learning, Transfer Learning, Natural
-> Language Processing, Generative AI, LLMs, LangChain, RAG, pgvector, LoRA and Recommendation Systems.
+> (GDE) in Machine Learning and Google Cloud Platform, AWS Certified Cloud Practitioner and
+> AWS Certified Machine Learning - Specialty. I'm experienced in Machine Learning and Deep Learning
+> algorithms with focus on efficiency, scalability and strategic insights. I work with Machine Learning,
+> Deep Learning, Transfer Learning, Natural Language Processing, Generative AI, LLMs, LangChain, RAG,
+> pgvector, LoRA and Recommendation Systems.
 >
 > I've been working with chatbots and retrieval/search solutions in the last year, incorporating
 > Generative AI in the projects, open source (Mixtral, LLaMA) and not (Vertex AI, Gemini models).
