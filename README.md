@@ -1,4 +1,4 @@
-# Rubens Zimbres ✨
+# Rubens Zimbres
 
 ## _Senior Machine Learning Engineer, Ph.D._
 
