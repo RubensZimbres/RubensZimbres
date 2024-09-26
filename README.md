@@ -4,7 +4,7 @@
 
  🔭 I’m currently contributing for OWASP Top 10 for LLMs and also in Langchain and Generative AI studies with Google Cloud Developer Experts
 
- 🚀 I’m learning cybersecurity in the intersection with A.I.
+ 🚀 I’m working with data privacy at Zendata in the intersection between A.I and cybersecurity.
 
  👾 About me 👾
 > I am a full-stack ML Engineer, certified Google Cloud Data Engineer and Google Developer Expert
