@@ -28,7 +28,3 @@
   
 📧 Email: talkto@rubenszimbres.phd  
 🌐 Website: https://www.rubenszimbres.phd
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=RubensZimbres/Repo-2017,RubensZimbres/Repo-2018,RubensZimbres/Repo-2019,RubensZimbres/Repo-2020&type=Date)](https://star-history.com/#RubensZimbres/Repo-2017&RubensZimbres/Repo-2018&RubensZimbres/Repo-2019&RubensZimbres/Repo-2020&Date)
