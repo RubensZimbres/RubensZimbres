@@ -2,7 +2,7 @@
 
 ## _Senior Machine Learning Engineer, Ph.D._
 
- 🔭 I’m currently contributing for OWASP Top 10 for LLMs and also in Langchain / CrewAI Generative AI studies with Google Cloud Developer Experts
+ 🔭 I’m currently contributing for OWASP Multi-Agent CTF and also in Langchain / CrewAI Generative AI multi-agent studies with Google Cloud Developer Experts.
 
  🚀 I’m working with data privacy at Zendata in the intersection between A.I and cybersecurity.
 
