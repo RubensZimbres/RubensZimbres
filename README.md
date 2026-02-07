@@ -2,9 +2,9 @@
 
 ## _Senior Machine Learning Engineer, Ph.D._
 
- 🔭 I’m currently contributing for OWASP Multi-Agent CTF and also in Langchain / CrewAI Generative AI multi-agent studies with Google Cloud Developer Experts.
+ 🔭 I’m currently contributing for OWASP Multi-Agent CTF and also in Langgraph Generative AI multi-agent studies with Google Cloud Developer Experts.
 
- 🚀 I’m working with data privacy at Zendata in the intersection between A.I and cybersecurity.
+ 🚀 I’m working with data privacy at Zendata in the intersection between A.I and cybersecurity, red teaming LLMs and multi-agent systems.
 
  👾 About me 👾
 > I am a full-stack ML Engineer, certified Google Cloud Data Engineer and Google Developer Expert
