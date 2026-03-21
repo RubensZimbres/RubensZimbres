@@ -1,6 +1,6 @@
 # Rubens Zimbres
 
-## _Senior Machine Learning Engineer, Ph.D._
+## _Senior AI Security Engineer, Ph.D._
 
  🔭 I’m currently contributing for OWASP Multi-Agent CTF and also in Langgraph Generative AI multi-agent studies with Google Cloud Developer Experts.
 
